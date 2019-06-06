@@ -1,0 +1,2 @@
+class UsedLink < ApplicationRecord
+end
